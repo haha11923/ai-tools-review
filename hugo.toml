@@ -1,4 +1,4 @@
-baseURL = 'https://ai-tools-review.com/'
+baseURL = 'https://ai-tools-review.pages.dev/'
 languageCode = 'en-us'
 title = 'AI Tools Review'
 theme = 'PaperMod'

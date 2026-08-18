@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-tools-review.com/sitemap.xml
