@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anthropic-Claude 全面评测 2026:AI时代的终极指南</title>
-      <link>http://localhost:1313/reviews/%E5%8A%A9%E6%89%8Banthropic/</link>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reviews/%E5%8A%A9%E6%89%8Banthropic/</guid>
-      <description>深入了解Anthropic-Claude的最新功能、价格对比、使用技巧和优缺点分析。2026年最权威的Anthropic-Claude评测指南。</description>
-    </item>
-    <item>
       <title>Devin-AI-Software-Engineer Review: Cognition Labs&#39; fully autonomous AI software engineer</title>
       <link>http://localhost:1313/reviews/devin-ai-software-engineer/</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
@@ -28,6 +21,13 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/reviews/krea-ai-realtime-image/</guid>
       <description>Complete review of Krea-AI-Realtime-Image - Real-time AI image generation with canvas editing</description>
+    </item>
+    <item>
+      <title>Runway-ML 全面评测 2026:AI时代的终极指南</title>
+      <link>http://localhost:1313/reviews/%E8%A7%86%E9%A2%91runway-ml/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/%E8%A7%86%E9%A2%91runway-ml/</guid>
+      <description>深入了解Runway-ML的最新功能、价格对比、使用技巧和优缺点分析。2026年最权威的Runway-ML评测指南。</description>
     </item>
     <item>
       <title>Top AI Tools to Watch in 2026</title>
