@@ -23,13 +23,6 @@ ignoreFiles = ['\\.md$', '^draft\\.md$']
   [params.homeInfoParams]
     Title = "AI Tools Review"
     Content = "Discover the best AI tools to boost your productivity, creativity, and workflow. In-depth reviews and comparisons of the top AI software."
-  
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/"
 
 [menu]
   [[menu.main]]

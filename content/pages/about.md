@@ -1,35 +1,25 @@
 ---
-title: "About AI Tools Review"
-description: "Learn about our mission to help you discover the best AI tools."
-date: 2026-01-01
-author: "AI Tools Review Team"
-draft: false
+title: "About"
+description: "Learn about AI Tools Review - our mission to help you find the best AI tools."
+layout: "single"
 ---
+
+# About AI Tools Review
+
+We're passionate about helping you discover and evaluate the best AI tools available. Our team of AI enthusiasts and tech experts test, review, and compare the latest tools so you can make informed decisions.
 
 ## Our Mission
 
-AI Tools Review is dedicated to helping professionals and enthusiasts discover, evaluate, and choose the best AI tools available.
+To provide unbiased, in-depth reviews of AI tools that help you boost productivity and creativity.
 
-## What We Do
+## What We Cover
 
-We publish in-depth reviews, comparisons, and tutorials for AI tools across multiple categories:
-
-- **AI Chatbots** - Language models and conversational AI
-- **AI Coding** - Developer tools and IDEs
-- **AI Art** - Image generation and creative tools
-- **AI Writing** - Content creation and copywriting
-- **AI Productivity** - Workflow automation and organization
-
-## Our Process
-
-Each review follows a consistent methodology:
-
-1. **Hands-on Testing** - 2+ weeks of real usage
-2. **Feature Analysis** - Comprehensive feature breakdown
-3. **Performance Benchmarks** - Objective testing
-4. **Value Assessment** - Pricing vs. features analysis
-5. **Final Rating** - Weighted scoring system
+- AI Chatbots & Assistants
+- Image Generation Tools
+- Code Editors & Development Tools
+- Writing & Content Tools
+- Productivity Apps
 
 ## Contact
 
-Have a tool to review? Reach out via email.
+Have a tool you want us to review? Reach out to us!
