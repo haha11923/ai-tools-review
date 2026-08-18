@@ -57,3 +57,17 @@ Krea-AI-Realtime-Image is a must-have tool for anyone working with real-time ai 
 ---
 
 *Disclaimer: This review is based on testing during the review period. Pricing and features may change. Always check the official website for current information.*
+
+---
+
+## 🔗 官方链接
+
+- **官方网站**: 点击访问官方页面
+- **免费试用**: 大多数工具提供免费版本
+- **订阅优惠**: 年付通常有折扣
+
+> 💡 提示：通过我们的链接订阅可享受专属优惠
+
+---
+
+*本文包含联盟链接，我们会获得少量佣金，不影响您的购买价格*

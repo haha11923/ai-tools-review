@@ -36,3 +36,17 @@ Python, JavaScript, TypeScript, Go, Rust, Java, C++, and 30+ more.
 In testing, Cursor reduced routine coding tasks by approximately 40% compared to traditional VS Code usage.
 
 **Rating: 8.5/10**
+
+---
+
+## 🔗 官方链接
+
+- **官方网站**: 点击访问官方页面
+- **免费试用**: 大多数工具提供免费版本
+- **订阅优惠**: 年付通常有折扣
+
+> 💡 提示：通过我们的链接订阅可享受专属优惠
+
+---
+
+*本文包含联盟链接，我们会获得少量佣金，不影响您的购买价格*

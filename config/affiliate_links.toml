@@ -1,77 +1,107 @@
 # AI Tools Review - 联盟营销链接配置
-# 格式: slug|program_name|url|commission_type|notes
+# 每个工具都有联盟链接，增加收益
 
-# ==================== AI 助手类 ====================
-chatgpt|OpenAI ChatGPT Plus|https://help.openai.com/en/articles/7544947-chatgpt-plus|subscription|Priority access, faster response times, GPT-4 access
-chatgpt-enterprise|OpenAI Enterprise|https://openai.com/enterprise/|enterprise|Custom pricing, advanced security, dedicated support
+[[tools]]
+name = "ChatGPT"
+slug = "chatgpt"
+affiliate_url = "https://platform.openai.com/account/subscription"
+commission = "免费使用"
+category = "AI助手"
 
-claude|Anthropic Claude Pro|https://www.anthropic.com/pricing|subscription|Priority access, larger context window, faster response
-claude-api|Anthropic API|https://www.anthropic.com/api|pay_per_use|Usage-based pricing for developers
+[[tools]]
+name = "Claude"
+slug = "claude"
+affiliate_url = "https://www.anthropic.com/pricing"
+commission = "$20/月"
+category = "AI助手"
 
-gemini|Google Gemini Advanced|https://gemini.google.com/advanced|subscription|1.5M context, advanced AI features
+[[tools]]
+name = "Gemini"
+slug = "gemini"
+affiliate_url = "https://ai.google/pricing"
+commission = "免费/付费"
+category = "AI助手"
 
-# ==================== 编程工具类 ====================
-cursor|Cursor AI|https://www.cursor.com/pricing|freemium|Free tier available, paid plans start at $10/mo
-windsurf|Windsurf by Codeium|https://codeium.com/windsurf|freemium|Free tier with paid upgrades
-copilot|GitHub Copilot|https://github.com/features/copilot|subscription|Individual $10/mo, Business $19/mo, Enterprise custom
-devin|Devin by Cognition|https://www.cognition.ai/pricing|subscription|Waitlist available, premium pricing
+[[tools]]
+name = "Cursor"
+slug = "cursor"
+affiliate_url = "https://www.cursor.sh/pricing"
+commission = "$20/月"
+category = "编程工具"
 
-# ==================== 图像生成类 ====================
-midjourney|Midjourney|https://midjourney.com/pricing|subscription|Basic $10/mo, Standard $30/mo, Pro $120/mo
-dalle|DALL-E 3 (via ChatGPT)|https://openai.com/chatgpt|subscription|Included in ChatGPT Plus
-stable-diffusion|Stable Diffusion|https://stability.ai/pricing|freemium|API pricing varies
-leonardo|Leonardo AI|https://leonardo.ai/pricing|freemium|Free daily tokens, paid plans available
+[[tools]]
+name = "Midjourney"
+slug = "midjourney"
+affiliate_url = "https://www.midjourney.com/account/subscription"
+commission = "$10/月"
+category = "AI绘画"
 
-# ==================== 视频编辑类 ====================
-runway|Runway ML|https://runwayml.com/pricing|subscription|Free tier, Standard $15/mo, Pro $95/mo
-luma|Luma Dream Machine|https://lumalabs.ai/dream-machine|subscription|Free tier, Pro $10/mo
-descript|Descript|https://www.descript.com/pricing|freemium|Free tier, Creator $12/mo, Team $20/mo
-veed|VEED.IO|https://www.veed.io/pricing|freemium|Free tier, Pro $12/mo
-opus|Opus Clip|https://www.opus.cl/pricing|freemium|Free tier, Pro $12/mo
+[[tools]]
+name = "Runway"
+slug = "runway"
+affiliate_url = "https://runwayml.com/pricing"
+commission = "$12/月"
+category = "AI视频"
 
-# ==================== 写作营销类 ====================
-notion|Notion AI|https://www.notion.so/product/ai|subscription|Plus $10/mo, Enterprise custom
-jasper|Jasper AI|https://www.jasper.ai/pricing|subscription|Creator $39/mo, Teams $99/mo
-copyai|Copy.ai|https://www.copy.ai/pricing|freemium|Free tier, Pro $49/mo
-perplexity|Perplexity AI|https://www.perplexity.ai/pricing|subscription|Pro $20/mo, API usage-based
+[[tools]]
+name = "Notion AI"
+slug = "notion-ai"
+affiliate_url = "https://www.notion.so/product/ai"
+commission = "$10/月"
+category = "办公工具"
 
-# ==================== 音频类 ====================
-elevenlabs|ElevenLabs|https://elevenlabs.io/pricing|freemium|Free tier, Creator $5/mo, Pro $22/mo
-suno|Suno AI|https://suno.com/pricing|freemium|Free tier, Pro $10/mo
-udio|Udio|https://www.udio.com/pricing|freemium|Free tier, Pro $10/mo
+[[tools]]
+name = "Jasper AI"
+slug = "jasper-ai"
+affiliate_url = "https://jasper.ai/pricing"
+commission = "$49/月"
+category = "内容创作"
 
-# ==================== 开发平台类 ====================
-replicate|Replicate|https://replicate.com/pricing|pay_per_use|Pay per second of GPU usage
-huggingface|Hugging Face Spaces|https://huggingface.co/pricing|freemium|Free tier, Pro $9/mo
-vercel|Vercel|https://vercel.com/pricing|freemium|Free tier, Pro $20/mo, Enterprise custom
-cloudflare|Cloudflare Pages|https://pages.cloudflare.com/pricing|freemium|Free tier, Pro $5/mo
+[[tools]]
+name = "Copy.ai"
+slug = "copyai"
+affiliate_url = "https://www.copy.ai/pricing"
+commission = "$36/月"
+category = "营销工具"
 
-# ==================== 通用/推荐 ====================
-amazon|Amazon Associates|https://affiliate-program.amazon.com|commission|Recommended products and books
+[[tools]]
+name = "Leonardo AI"
+slug = "leonardo-ai"
+affiliate_url = "https://leonardo.ai/pricing"
+commission = "$12/月"
+category = "AI绘画"
 
-# ==================== 说明 ====================
-# 
-# 佣金类型说明:
-# - subscription: 订阅分成 (通常 20-30%)
-# - freemium: 免费增值转化
-# - pay_per_use: 按使用量付费
-# - commission: 销售佣金 (通常 4-10%)
-# - enterprise: 企业定制方案
-#
-# 使用建议:
-# 1. 替换为自己的联盟 ID
-# 2. 根据目标市场选择合适的项目
-# 3. 定期检查链接有效性
-# 4. 遵守各平台的联盟政策
-#
-# 推荐的佣金比例:
-# - AI 工具订阅: 20-30% (首年)
-# - SaaS 产品: 20-40% (持续分成)
-# - 实体产品: 4-10%
-# - 教育课程: 30-50%
-#
-# 最佳实践:
-# - 在"价格"和"CTA"部分自然插入链接
-# - 使用对比表格展示不同选择
-# - 添加"为什么选择这个"的理由
-# - 定期更新链接和价格信息
+[[tools]]
+name = "ElevenLabs"
+slug = "elevenlabs"
+affiliate_url = "https://elevenlabs.io/pricing"
+commission = "$5/月"
+category = "AI配音"
+
+[[tools]]
+name = "Devin"
+slug = "devin"
+affiliate_url = "https://www.cognition.ai/pricing"
+commission = "邀请制"
+category = "编程工具"
+
+[[tools]]
+name = "Perplexity"
+slug = "perplexity"
+affiliate_url = "https://www.perplexity.ai/settings"
+commission = "$20/月"
+category = "AI搜索"
+
+[[tools]]
+name = "Suno AI"
+slug = "suno-ai"
+affiliate_url = "https://suno.com/pricing"
+commission = "$10/月"
+category = "AI音乐"
+
+[[tools]]
+name = "Krea AI"
+slug = "krea-ai"
+affiliate_url = "https://www.krea.ai/pricing"
+commission = "免费/付费"
+category = "AI设计"
