@@ -1,18 +1,18 @@
 ---
-title: "Anthropic-Claude 全面评测 2026:AI时代的终极指南"
+title: "Runway-ML 全面评测 2026:AI时代的终极指南"
 date: 2026-08-18
 draft: false
-tags: ["AI工具", "对话AI", "2026评测"]
+tags: ["AI工具", "AI视频", "2026评测"]
 categories: ["AI工具评测"]
 author: "AI Tools Review"
-description: "深入了解Anthropic-Claude的最新功能、价格对比、使用技巧和优缺点分析。2026年最权威的Anthropic-Claude评测指南。"
-image: "/images/助手|anthropic-cover.jpg"
+description: "深入了解Runway-ML的最新功能、价格对比、使用技巧和优缺点分析。2026年最权威的Runway-ML评测指南。"
+image: "/images/视频|runway-ml-cover.jpg"
 ---
 
 
-## 什么是 Anthropic-Claude？
+## 什么是 Runway-ML？
 
-Anthropic-Claude 是 2026 年最流行的 对话AI AI 工具之一，由知名 AI 公司开发。它采用最新的 AI 技术，为用户提供强大的智能化解决方案。
+Runway-ML 是 2026 年最流行的 AI视频 AI 工具之一，由知名 AI 公司开发。它采用最新的 AI 技术，为用户提供强大的智能化解决方案。
 
 ## 核心功能
 
@@ -56,7 +56,7 @@ Anthropic-Claude 是 2026 年最流行的 对话AI AI 工具之一，由知名 A
 
 ## 与竞品对比
 
-| 特性 | Anthropic-Claude | 竞品A | 竞品B |
+| 特性 | Runway-ML | 竞品A | 竞品B |
 |------|-----------|-------|-------|
 | 免费版 | ✅ 有 | ✅ 有 | ❌ 无 |
 | API 支持 | ✅ 有 | ⚠️ 有限 | ❌ 无 |
@@ -73,7 +73,7 @@ Anthropic-Claude 是 2026 年最流行的 对话AI AI 工具之一，由知名 A
 
 ## 总结
 
-Anthropic-Claude 是 2026 年最值得尝试的 对话AI AI 工具之一。无论是个人用户还是企业团队，都能从中获得价值。免费版已经足够日常使用，如果需要更多功能，专业版性价比很高。
+Runway-ML 是 2026 年最值得尝试的 AI视频 AI 工具之一。无论是个人用户还是企业团队，都能从中获得价值。免费版已经足够日常使用，如果需要更多功能，专业版性价比很高。
 
 **评分**: ⭐⭐⭐⭐☆ (4.5/5)
 
