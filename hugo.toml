@@ -1,0 +1,61 @@
+baseURL = 'https://ai-tools-review.com/'
+languageCode = 'en-us'
+title = 'AI Tools Review'
+theme = 'PaperMod'
+disableKinds = ['taxonomy', 'term']
+ignoreFiles = ['\\.md$', '^draft\\.md$']
+
+[services]
+  [services.rss-limit]
+    limit = 20
+
+[params]
+  env = 'production'
+  description = 'Discover and compare the best AI tools for productivity, creativity, and automation.'
+  defaultTheme = 'dark'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  
+  [params.homeInfoParams]
+    Title = "AI Tools Review"
+    Content = "Discover the best AI tools to boost your productivity, creativity, and workflow. In-depth reviews and comparisons of the top AI software."
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "reviews"
+    name = "Reviews"
+    url = "/reviews/"
+    weight = 20
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
